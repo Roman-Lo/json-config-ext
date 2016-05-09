@@ -1,0 +1,5 @@
+{
+  "__name": "Test__02",
+  "__excludes": [ "test__01" ],
+  "__extends": []
+}

@@ -1,0 +1,9 @@
+{
+  "__extends": [ "../ext-02/extension-02.json" ],
+  "obj": {
+    "num": 1
+  },
+  "ext_01": {
+    "ext_01": "reserved"
+  }
+}

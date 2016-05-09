@@ -1,0 +1,10 @@
+{
+  "__name": "final",
+  "__extends": [ "./ext-01/extension-01.json" ],
+  "__excludes": [  ],
+  "key": "hey",
+  "obj": {
+    "num": 0,
+    "path": "nooooo!"
+  }
+}

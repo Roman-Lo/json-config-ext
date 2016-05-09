@@ -1,0 +1,33 @@
+{
+  "name": "json-config-ext",
+  "version": "1.0.0",
+  "description": "An extensible json configuration plugin for nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "coveralls": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Roman-Lo/json-config-ext.git"
+  },
+  "keywords": [
+    "configurations",
+    "json-config"
+  ],
+  "author": "Roman Lo <romam.nare@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "coveralls": "^2.11.9",
+    "eslint": "^2.9.0",
+    "gulp-coveralls": "^0.1.4",
+    "gulp-eslint": "^2.0.0",
+    "gulp-istanbul": "^0.10.4",
+    "gulp-mocha": "^2.2.0",
+    "mocha": "^2.4.5"
+  },
+  "dependencies": {
+    "merge": "^1.2.0"
+  }
+}
