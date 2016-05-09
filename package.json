@@ -4,8 +4,8 @@
   "description": "An extensible json configuration plugin for nodejs",
   "main": "index.js",
   "scripts": {
-    "test": "mocha",
-    "coveralls": ""
+    "test": "gulp test",
+    "coveralls": "gulp coveralls"
   },
   "repository": {
     "type": "git",
