@@ -1,0 +1,7 @@
+{
+  "db": {
+    "mongo": {
+      "connectionString": "mongo://xxxxxxx"
+    }
+  }
+}

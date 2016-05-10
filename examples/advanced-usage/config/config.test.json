@@ -1,0 +1,6 @@
+{
+  "__extends": [ "./config.json" ],
+  "app": {
+    "env": "test"
+  }
+}

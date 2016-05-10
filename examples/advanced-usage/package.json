@@ -1,0 +1,13 @@
+{
+  "name": "json-config-ext-advanced-usage",
+  "description": "json-config-ext example",
+  "version": "0.0.1",
+  "scripts": {
+    "default": "node index.js",
+    "test": "NODE_ENV=test node index.js"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "json-config-ext": "^1.0.1"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "__name": "dbconfig",
+  "__extends": [ "./nosql/mongo.json", "./sql/mysql.json" ],
+  "db": {
+    "mysql": {
+      "connectionString": "blah blah blah..."
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "__extends" : [ "./log/log.json", "./db/db.json" ],
+  "app": {
+    "env": "none"
+  }
+}
