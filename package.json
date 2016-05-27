@@ -1,6 +1,6 @@
 {
   "name": "json-config-ext",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "An extensible json configuration plugin for nodejs",
   "main": "index.js",
   "scripts": {
